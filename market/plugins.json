@@ -96,6 +96,12 @@
     "repo": "MineWeb/Plugin-Stats"
   },
   {
+    "name": "Discord",
+    "slug": "Discord",
+    "free": true,
+    "repo": "MineWeb/Plugin-Discord"
+  },
+  {
     "name": "Auth Mineweb",
     "slug": "Auth",
     "free": false,
